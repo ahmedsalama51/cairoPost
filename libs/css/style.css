@@ -1,0 +1,38 @@
+
+.container
+{
+  background-color: #ccc;
+  margin-top: 60px;
+  padding: 20px 0px;
+}
+.navbar-right
+{
+	margin-right: 10px;
+}
+.navbar-links
+{
+	margin-top:50px;
+	margin:5px;
+	width:30px;
+	padding: 10px;
+	border-radius: 5px;
+	background-color: #eee;
+}
+.requierd
+{
+	position: absolute;
+	margin:5px 10px;
+	border-radius: 5px;
+	text-align: left;
+}
+.errormassage
+{
+	
+	width: 400px;
+	position: absolute;
+	margin:5px 10px;
+	border-radius: 5px;
+	text-align: left; 
+	height:30px;
+	color:red;
+}
